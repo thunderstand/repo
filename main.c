@@ -5,7 +5,7 @@ int suma(int, int);
 int main()
 {
 	int a, b;
-	printf("a = ");
+	printf("---Suma a doua numere---\na = ");
 	scanf("%d", &a);
 	printf("b = ");
 	scanf("%d", &b);
